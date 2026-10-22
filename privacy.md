@@ -1,3 +1,8 @@
+---
+layout: null
+permalink: /privacy.html
+---
+
 # 隱私權政策
 
 Personal Drive Backup 僅供開發者本人使用。
